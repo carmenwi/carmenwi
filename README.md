@@ -58,7 +58,8 @@
   </a>
 </p>
 
-
+## ¡ Gracias por tomarte el tiempo para saber sobre mí! :)
 <p align="center">
   <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/doggiepng.png" width="200">
 </p>
+P.D. Me encantan los perritos
