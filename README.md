@@ -26,15 +26,15 @@
 ## 📂 Proyectos
 
 ### 🎓 Universidad
-- [![Análisis de Datos](https://github.com/tu_usuario/tu_repositorio/proyecto1_miniatura.png)](https://github.com/carmenwi/Universidad/tree/main/An%C3%A1lisis%20de%20Datos) **Análisis de Datos** - Uso de técnicas de análisis multivariante y exploratorio con lenguaje R.
-- [![Tratamiento de Datos](https://github.com/tu_usuario/tu_repositorio/proyecto2_miniatura.png)](#) **Tratamiento de Datos** - Uso de técnicas para el tratamiento de datos y su posterior análisis con lenguaje Python.
-- [![Estructuras de Datos](https://github.com/tu_usuario/tu_repositorio/proyecto3_miniatura.png)](#) **Estructuras de Datos** - Uso de Python para implementar distintas estructuras de datos lineales.
+- <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/carpetitaverde.ico" width="16"> [Análisis de Datos](https://github.com/carmenwi/Universidad/tree/main/An%C3%A1lisis%20de%20Datos) - Uso de técnicas de análisis multivariante y exploratorio con lenguaje R.
+- <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/carpetitaverde.ico" width="16"> [Tratamiento de Datos](https://github.com/carmenwi/Universidad/tree/main/Tratamiento%20de%20Datos) - Uso de técnicas para el tratamiento de datos y su posterior análisis con lenguaje Python.
+- <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/carpetitaverde.ico" width="16"> [Estructuras de Datos](https://github.com/carmenwi/Universidad/tree/main/Estructuras%20de%20Datos) - Uso de Python para implementar distintas estructuras de datos lineales.
 
 ### 📜 Google Certificate
-- [![Proyecto final](https://github.com/tu_usuario/tu_repositorio/google_cert_miniatura.png)](#) **Proyecto final** - Análisis de datos con lenguaje R y Python con perspectiva de marketing.
+- <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/carpetitaverde.ico" width="16"> [Proyecto final](https://github.com/carmenwi/Google-Data-Analytics-Professional-Certificate) - Análisis de datos con lenguaje R y Python con perspectiva de marketing.
 
 ### 🚀 Proyectos propios
-- [![Próximo proyecto](https://github.com/tu_usuario/tu_repositorio/proyecto_propio_miniatura.png)](#) **Próximo proyecto** - En proceso...
+- <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/carpetitaverde.ico" width="16"> [Próximo proyecto](#) - En proceso...
 
 ---
 
