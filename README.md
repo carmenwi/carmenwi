@@ -6,7 +6,7 @@
 ![Banner](https://github.com/carmenwi/carmenwi/blob/main/assets/banner.png)
 
 <p align="center">
-  <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/doggie.gif" width="200">
+  <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/doggiepng.png" width="200">
 </p>
 
 ---
