@@ -1,4 +1,4 @@
-![Banner](https://github.com/tu_usuario/tu_repositorio/banner.png)
+![Banner](https://github.com/carmenwi/carmenwi/blob/main/assets/banner.png)
 
 # 👋 ¡Hola! Soy Carmen
 
