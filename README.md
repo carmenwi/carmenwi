@@ -49,16 +49,6 @@
 
 ---
 
-## 📊 Mis estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=default" alt="Estadísticas de GitHub" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=default" alt="Racha de contribuciones" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=default" alt="Lenguajes Más Usados" width="400"/>
-</p>
-
----
-
 ## 📫 Contacto
 <p align="left">
   <a href="[https://linkedin.com/in/tu_perfil](https://www.linkedin.com/in/carmen-witsman-garc%C3%ADa-15ba8b292/)">
