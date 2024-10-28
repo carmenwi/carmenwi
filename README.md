@@ -11,7 +11,6 @@
 - [Sobre mí](#-sobre-mí)
 - [Proyectos](#-proyectos)
 - [Tecnologías](#-tecnologías)
-- [Mis estadísticas](#-mis-estadísticas)
 - [Contacto](#-contacto)
 
 ---
