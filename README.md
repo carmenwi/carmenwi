@@ -34,7 +34,7 @@
 - <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/carpetitaverde.ico" width="16"> [Proyecto final](https://github.com/carmenwi/Google-Data-Analytics-Professional-Certificate) - Análisis de datos con lenguaje R y Python con perspectiva de marketing.
 
 ### 🚀 Proyectos propios
-- [![Próximo proyecto](https://github.com/tu_usuario/tu_repositorio/proyecto_propio_miniatura.png)](#) **Próximo proyecto** - En proceso...
+- [Próximo proyecto](#) - En proceso...
 
 ---
 
