@@ -3,7 +3,7 @@
 ### Científica de Datos en formación | Apasionada por resolver problemas y contribuir a la sociedad
 
 
-![Banner](https://github.com/carmenwi/carmenwi/blob/main/assets/banner.png)
+![Banner](https://github.com/carmenwi/carmenwi/blob/main/assets/banner2.png)
 
 ---
 
