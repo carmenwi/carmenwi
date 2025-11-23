@@ -34,6 +34,8 @@
 - <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/carpetitaverde.ico" width="16"> [Proyecto final](https://github.com/carmenwi/Google-Data-Analytics-Professional-Certificate) - Análisis de datos con lenguaje R y Python con perspectiva de marketing.
 
 ### 🚀 Proyectos propios
+- <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/carpetitaverde.ico" width="16"> [Plataforma Educativa para Estudantes - Ganador 1er Premio en Categoría Innovación Hack4edu](https://github.com/carmenwi/MyLEA_Project_Hack4Edu)
+- <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/carpetitaverde.ico" width="16"> [Neoveo - Proyecto Grupal para NASA Space Apps Challenge 2025](https://github.com/alediabre/nasa-space-apps-challenge/tree/main)
 - <img src="https://github.com/carmenwi/carmenwi/blob/main/assets/carpetitaverde.ico" width="16"> [Próximo proyecto](#) - En proceso...
 
 ---
